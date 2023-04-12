@@ -15,7 +15,7 @@ groovy = "4.0.9"
 spock = "2.3-groovy-4.0"
 
 # Plugins
-micronaut-gradle-plugin = "3.6.6"
+micronaut-gradle-plugin = "3.7.8"
 
 [libraries]
 h2 = { module = 'com.h2database:h2', version.ref = 'h2' }
